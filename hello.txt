@@ -6,6 +6,6 @@ hello xiaolyangtuo33 !hello git
 hello xiaolyangtuo33 !hello git
 hello xiaolyangtuo33 !hello git
 hello xiaolyangtuo33 !hello git
+hello xiaolyangtuo33 !hello git  !master test
 hello xiaolyangtuo33 !hello git
-hello xiaolyangtuo33 !hello git
-hello xiaolyangtuo33 !hello git
+hello xiaolyangtuo33 !hello git  
